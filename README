@@ -1,0 +1,10 @@
+This is just a basic Blackjack game.
+
+I followed Python Programming 2nd edition by Michael Dawson.
+
+To run:  python Blackjack.py
+
+To do:
+    1.  Change the text of the game to make it more readible and easier to follow
+    2.  Create a GUI for the game
+    3.  Other duties as assigned
