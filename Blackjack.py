@@ -1,5 +1,7 @@
 #Blackjack
 #1 to 7 players
+#Followed from Python Programming for the Absolute Beginner by Michael Dawson 2nd Edition
+#
 
 import Cards, games
 
